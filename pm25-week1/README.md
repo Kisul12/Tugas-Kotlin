@@ -2,4 +2,4 @@
 
 ## Hasil Program
 
-![Hasil Run](/resultProgram)
+![Hasil Run](/resultProgram.png)
