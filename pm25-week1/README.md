@@ -2,5 +2,4 @@
 
 ## Hasil Program
 
-![Hasil Run](/resultProgram.png)
-![Hasil Run](/resultProgram.png)
+![Hasil Run](/Tugas-Kotlin/pm25-week1/resultProgram.png)
