@@ -1,4 +1,9 @@
 package com.example.assign3
+import android.os.Parcelable
+import kotlinx.parcelize.Parcelize
 
-class User {
-}
+@Parcelize
+data class User(
+    val name: String,
+    val email: String
+) : Parcelable
